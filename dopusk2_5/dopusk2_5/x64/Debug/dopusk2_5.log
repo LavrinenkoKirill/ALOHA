@@ -1,0 +1,27 @@
+﻿  main.cpp
+C:\Users\Kirill\source\repos\dopusk2_5\dopusk2_5\main.cpp(104,12): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\source\repos\dopusk2_5\dopusk2_5\main.cpp(163,55): warning C4244: аргумент: преобразование "_Ty" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\Kirill\source\repos\dopusk2_5\dopusk2_5\main.cpp(245,59): warning C4244: аргумент: преобразование "_Ty" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\Kirill\source\repos\dopusk2_5\dopusk2_5\main.cpp(283,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\source\repos\dopusk2_5\dopusk2_5\main.cpp(305,53): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  dopusk2_5.vcxproj -> C:\Users\Kirill\source\repos\dopusk2_5\x64\Debug\dopusk2_5.exe
